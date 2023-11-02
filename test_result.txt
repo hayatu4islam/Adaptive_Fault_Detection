@@ -1,2 +1,3 @@
 The sum is 10, and the product is 16
 The sum is 15, and the product is 50
+Area of the rectangle: 0
